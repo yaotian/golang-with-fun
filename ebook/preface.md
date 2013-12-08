@@ -4,6 +4,7 @@
  - [开发工具]
 * 2.[Go语言单词与语法](02.0.md)
  - [单词](02.word.md)
+ - [语法](02.grammar.md)
  - [struct]
  - [面向对象]
  - [interface]
